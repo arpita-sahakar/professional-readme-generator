@@ -37,12 +37,6 @@ const questions = [
     name: "gitHubUserName",
   },
   {
-    type: "input",
-    message: "Project prerequisites",
-    name: "projectPreRequ",
-  },
-
-  {
     type: "list",
     message: "License name",
     name: "licenseName",
