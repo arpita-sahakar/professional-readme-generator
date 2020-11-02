@@ -75,4 +75,4 @@
   
  ## Demo video
 
- <iframe src="https://drive.google.com/file/d/1Fh8BsnECAd10gixqktbw0CmsoAhcCkMC/preview" width="640" height="480"></iframe>
+ Click [here](https://drive.google.com/file/d/1Fh8BsnECAd10gixqktbw0CmsoAhcCkMC/view) to see the demo video.
